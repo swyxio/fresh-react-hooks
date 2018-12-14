@@ -1,4 +1,22 @@
-notable discussions:
+## Hooks by purpose
+
+- Time
+  - useDebounce https://github.com/xnimorz/use-debounce (https://twitter.com/xnimorz/status/1060853856794537984)
+- Keyboard
+  - useKeypress https://gist.github.com/gragland/b61b8f46114edbcf2a9e4bd5eb9f47f5
+  - useMultikeypress https://codesandbox.io/s/y3qzyr3lrz
+- Browser APIs
+  - useOnScreen https://codesandbox.io/s/y7kr0vll4v
+  - the-platform https://github.com/palmerhq/the-platform
+- Better APIs (eg for useState)
+  - https://github.com/sw-yx/hooks
+  
+## Hooks lists
+
+- https://usehooks.com/
+- https://github.com/palmerhq/the-platform
+
+## Notable discussions
 
 - replacing componentwillunmount and how precisely to get props https://twitter.com/kentcdodds/status/1059656472978583553
 - when exactly useEffect unmounts: https://codesandbox.io/s/04zzv9nxl
