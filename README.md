@@ -2,6 +2,7 @@
 
 - Time
   - useDebounce https://github.com/xnimorz/use-debounce (https://twitter.com/xnimorz/status/1060853856794537984)
+  - useInterval https://twitter.com/dan_abramov/status/1063803533558992897
 - Keyboard
   - useKeypress https://gist.github.com/gragland/b61b8f46114edbcf2a9e4bd5eb9f47f5
   - useMultikeypress https://codesandbox.io/s/y3qzyr3lrz
@@ -10,6 +11,9 @@
   - the-platform https://github.com/palmerhq/the-platform
 - Better APIs (eg for useState)
   - https://github.com/sw-yx/hooks
+  - need for a better onunmount setstate api https://medium.com/@pshrmn/react-hook-gotchas-e6ca52f49328
+- Library hooks
+  - https://github.com/carloslfu/use-machine
   
 ## Hooks lists
 
