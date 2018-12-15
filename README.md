@@ -1,3 +1,10 @@
+# Keep Us Fresh 🍅
+
+- Submit new links via [Pull Request](https://github.com/sw-yx/fresh-async-react/pulls)
+- This list follows [the Fresh 🍅 Manifesto](https://github.com/sw-yx/fresh/blob/master/fresh.md)
+- New Links must use this format:
+  - `DD MMM YYYY: [Link Name](link) Description`
+
 ## Hooks by purpose
 
 - Time
@@ -15,10 +22,11 @@
 - Library hooks
   - https://github.com/carloslfu/use-machine
   
-## Hooks lists
+## Hooks directories and multiple hooks libraries
 
 - https://usehooks.com/
 - https://github.com/palmerhq/the-platform
+- https://github.com/sw-yx/hooks
 
 ## Notable discussions
 
@@ -27,7 +35,17 @@
 - useUpdateEffect from vince: https://twitter.com/vincentriemer/status/1059554726415622151
 - subsetting render/useEffect: https://twitter.com/chantastic/status/1059521165947940867
 
-Chronological
+## Chronological
 
 - Nov 16 2018: Seb's response to React Hooks RFC feedback: https://github.com/reactjs/rfcs/pull/68#issuecomment-439314884
 - Nov 2 2018: Debug Tools Package for Hooks Introspection PR: https://github.com/facebook/react/pull/14085
+
+# History
+
+- None yet!
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [swyx](https://swyx.io) has waived all copyright and related or neighboring rights to this work. **Fresh** 🍅 is a new spin on [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - community curated lists that never go out of style.
