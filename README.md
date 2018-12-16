@@ -27,6 +27,7 @@
 - https://usehooks.com/
 - https://github.com/palmerhq/the-platform
 - https://github.com/sw-yx/hooks
+- https://github.com/kitze/react-hanger
 
 ## Notable discussions
 
