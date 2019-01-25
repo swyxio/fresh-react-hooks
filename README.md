@@ -7,6 +7,8 @@
 
 ## Hooks by purpose
 
+- Data Fetching without Suspense
+  - use an IIFE: https://twitter.com/wesbos/status/1088827781532798977
 - Time
   - useDebounce https://github.com/xnimorz/use-debounce (https://twitter.com/xnimorz/status/1060853856794537984)
   - useInterval https://twitter.com/dan_abramov/status/1063803533558992897
@@ -19,8 +21,11 @@
 - Better APIs (eg for useState)
   - https://github.com/sw-yx/hooks
   - need for a better onunmount setstate api https://medium.com/@pshrmn/react-hook-gotchas-e6ca52f49328
+- DevTools
+  - useKnobs https://twitter.com/dan_abramov/status/1058834904207761409
 - Library hooks
-  - https://github.com/carloslfu/use-machine
+  - xState: https://github.com/carloslfu/use-machine
+  - threeJS: https://github.com/aarosil/react-three-hook
   
 ## Hooks directories and multiple hooks libraries
 
