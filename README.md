@@ -15,6 +15,8 @@
 - Keyboard
   - useKeypress https://gist.github.com/gragland/b61b8f46114edbcf2a9e4bd5eb9f47f5
   - useMultikeypress https://codesandbox.io/s/y3qzyr3lrz
+- Clicking
+  - useOnClickOutside https://github.com/Andarist/use-onclickoutside
 - Browser APIs
   - useOnScreen https://codesandbox.io/s/y7kr0vll4v
   - the-platform https://github.com/palmerhq/the-platform
