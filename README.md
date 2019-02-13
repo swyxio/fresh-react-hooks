@@ -38,6 +38,7 @@
 
 ## Notable discussions
 
+- useMemo with Context https://twitter.com/kryptos_rsa/status/1095739456232005632
 - replacing componentwillunmount and how precisely to get props https://twitter.com/kentcdodds/status/1059656472978583553
 - when exactly useEffect unmounts: https://codesandbox.io/s/04zzv9nxl
 - useUpdateEffect from vince: https://twitter.com/vincentriemer/status/1059554726415622151
